@@ -89,7 +89,7 @@ The goal of this project is to show the potential ways of using the Solana Track
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/YZYLAB/solana-trading-bot/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/tunacoinnet/solana-trading-bot/issues).
 
 ## Support
 
